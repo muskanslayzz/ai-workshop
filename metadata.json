@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen – Digital College Canteen Platform",
+  "description": "A smart campus canteen food ordering and queue management system with real-time order tracking, live preparation estimates, and role-based student, staff, and admin panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
